@@ -1,2 +1,2 @@
-# ScrumAnalise
-Este repositório contém a analise critica necessária para o desafio da formação de Scrum Master da DIO.
+# Formação Scrum Master DIO
+Este repositório contém a os projetos da formação de Scrum Master da DIO.
